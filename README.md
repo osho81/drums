@@ -7,4 +7,4 @@ Motivation: Learn more html, css and javascript, without involving libraries or 
 
 Simple drum-kit on webpage: few drums and sounds, activated by click or typing certain keyboards. Printscreen from the webpage:  
 
-<img src="https://github.com/osho81/simon_game_with_levels/picDrums.PNG" alt="Pic from the game" width="500"/>
+<img src="https://github.com/osho81/simon_game_with_levels/blob/main/picDrums.PNG" alt="Pic from the game" width="400"/>
