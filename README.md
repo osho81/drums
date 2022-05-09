@@ -1,6 +1,6 @@
 ## Drum-kit webpage. 
 
-### Outline 
+### Description
 Simple drum-kit on webpage: few drums and sounds, activated by click or typing certain keyboards. Printscreen from the webpage:  
 
 <img src="https://github.com/osho81/drums/blob/main/picDrums.PNG" alt="Pic from the game" width="300"/>
